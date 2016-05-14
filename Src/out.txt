@@ -1,0 +1,112 @@
+File Name:  i.txt
+Total Iteration: 1
+
+================================================================================================================
+CLUSTER NUMBER:1
+TOTAL MEMBERS:2
+Attribute NAMES: ['a', 'b']
+ATTRIBUTE CORDINATES:[[15.0], [15.0]]
+ CENTROID COORDINATES: [15.0]
+================================================================================================================
+CLUSTER NUMBER:2
+TOTAL MEMBERS:1
+Attribute NAMES: ['c']
+ATTRIBUTE CORDINATES:[[16.0]]
+ CENTROID COORDINATES: [16.0]
+================================================================================================================
+CLUSTER NUMBER:3
+TOTAL MEMBERS:0
+Attribute NAMES: []
+ATTRIBUTE CORDINATES:[]
+ CENTROID COORDINATES: []
+================================================================================================================
+CLUSTER NUMBER:4
+TOTAL MEMBERS:2
+Attribute NAMES: ['e', 'f']
+ATTRIBUTE CORDINATES:[[20.0], [20.0]]
+ CENTROID COORDINATES: [20.0]
+================================================================================================================
+CLUSTER NUMBER:5
+TOTAL MEMBERS:1
+Attribute NAMES: ['d']
+ATTRIBUTE CORDINATES:[[19.0]]
+ CENTROID COORDINATES: [19.0]
+================================================================================================================
+CLUSTER NUMBER:6
+TOTAL MEMBERS:1
+Attribute NAMES: ['g']
+ATTRIBUTE CORDINATES:[[21.0]]
+ CENTROID COORDINATES: [21.0]
+================================================================================================================
+CLUSTER NUMBER:7
+TOTAL MEMBERS:0
+Attribute NAMES: []
+ATTRIBUTE CORDINATES:[]
+ CENTROID COORDINATES: []
+================================================================================================================
+CLUSTER NUMBER:8
+TOTAL MEMBERS:1
+Attribute NAMES: ['i']
+ATTRIBUTE CORDINATES:[[28.0]]
+ CENTROID COORDINATES: [28.0]
+================================================================================================================
+CLUSTER NUMBER:9
+TOTAL MEMBERS:1
+Attribute NAMES: ['h']
+ATTRIBUTE CORDINATES:[[22.0]]
+ CENTROID COORDINATES: [22.0]
+================================================================================================================
+CLUSTER NUMBER:10
+TOTAL MEMBERS:1
+Attribute NAMES: ['k']
+ATTRIBUTE CORDINATES:[[40.0]]
+ CENTROID COORDINATES: [40.0]
+================================================================================================================
+CLUSTER NUMBER:11
+TOTAL MEMBERS:1
+Attribute NAMES: ['j']
+ATTRIBUTE CORDINATES:[[35.0]]
+ CENTROID COORDINATES: [35.0]
+================================================================================================================
+CLUSTER NUMBER:12
+TOTAL MEMBERS:1
+Attribute NAMES: ['m']
+ATTRIBUTE CORDINATES:[[42.0]]
+ CENTROID COORDINATES: [42.0]
+================================================================================================================
+CLUSTER NUMBER:13
+TOTAL MEMBERS:1
+Attribute NAMES: ['l']
+ATTRIBUTE CORDINATES:[[41.0]]
+ CENTROID COORDINATES: [41.0]
+================================================================================================================
+CLUSTER NUMBER:14
+TOTAL MEMBERS:1
+Attribute NAMES: ['o']
+ATTRIBUTE CORDINATES:[[44.0]]
+ CENTROID COORDINATES: [44.0]
+================================================================================================================
+CLUSTER NUMBER:15
+TOTAL MEMBERS:1
+Attribute NAMES: ['n']
+ATTRIBUTE CORDINATES:[[43.0]]
+ CENTROID COORDINATES: [43.0]
+================================================================================================================
+CLUSTER NUMBER:16
+TOTAL MEMBERS:1
+Attribute NAMES: ['q']
+ATTRIBUTE CORDINATES:[[61.0]]
+ CENTROID COORDINATES: [61.0]
+================================================================================================================
+CLUSTER NUMBER:17
+TOTAL MEMBERS:1
+Attribute NAMES: ['p']
+ATTRIBUTE CORDINATES:[[60.0]]
+ CENTROID COORDINATES: [60.0]
+================================================================================================================
+CLUSTER NUMBER:18
+TOTAL MEMBERS:1
+Attribute NAMES: ['r']
+ATTRIBUTE CORDINATES:[[65.0]]
+ CENTROID COORDINATES: [65.0]
+================================================================================================================
